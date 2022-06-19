@@ -13,7 +13,7 @@
  ### Mis tecnologiás:
 
 *Frontend*
-* React JS - Hooks - Redux - MaterialUI
+<span style='color:blue'>* React JS - Hooks - Redux - MaterialUI</span>
 * HTML, CSS Y VANILLA
 * Geist UI
 * React Native (Native base y styled components)
@@ -25,11 +25,7 @@
 * Postgres
 * SQLserver
 
-<ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
-</ol>
+
 
 
 
