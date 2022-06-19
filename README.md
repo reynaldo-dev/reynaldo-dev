@@ -12,7 +12,7 @@
  💞️ I’m looking to collaborate on some software companies, to get more knowledge about this lovely area.  
  
  
- ### Mis tecnologiás:
+ ### Mis tecnologías:
 
 *Frontend*  
 * React JS - Hooks - Redux - MaterialUI
