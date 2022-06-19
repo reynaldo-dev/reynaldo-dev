@@ -1,4 +1,6 @@
- ### Hi, I’m @reynaldo martinez, i'm software developer engineer and full stack developer
+ ### Hi, I’m @reynaldo martinez, i'm software developer engineer and full stack developer  
+   
+   
  
 
  👀 I’m interested in software development and i like to play basketball since i was a child.  
