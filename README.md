@@ -13,7 +13,7 @@
  ### Mis tecnologiás:
 
 *Frontend*  
-<span style="color:Bisque">* React JS - Hooks - Redux - MaterialUI</span>
+* React JS - Hooks - Redux - MaterialUI
 * HTML, CSS Y VANILLA
 * Geist UI
 * React Native (Native base y styled components)
