@@ -12,13 +12,16 @@
  💞️ I’m looking to collaborate on some software companies, to get more knowledge about this lovely area.  
  
  
- ### Mis tecnologías:
+ ### My tech stack:
 
 *Frontend*  
 * React JS - Hooks - Redux - MaterialUI
 * HTML, CSS Y VANILLA
 * Geist UI
 * React Native (Native base y styled components)
+* Tailwind
+* Redux Toolkit
+* Redux Toolkit Query
 
 *Backend*
 * NodeJS y express
